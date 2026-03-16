@@ -12,15 +12,15 @@
       "name": "aviad-dev-toolkit",
       "source": {
         "source": "github",
-        "repo": "AviadP/my-claude-skills",
-        "ref": "master"
+        "repo": "AviadP/aviad-dev-toolkit",
+        "ref": "main"
       },
       "description": "Development quality toolkit — architecture, code quality, refactoring, memory, shipping",
       "version": "1.0.0",
       "author": {
         "name": "Aviad Polak"
       },
-      "repository": "https://github.com/AviadP/my-claude-skills",
+      "repository": "https://github.com/AviadP/aviad-dev-toolkit",
       "license": "MIT",
       "keywords": ["code-quality", "architecture", "refactoring", "git-workflow"],
       "category": "code-quality"
