@@ -1,0 +1,29 @@
+{
+  "name": "aviad-plugin-marketplace",
+  "owner": {
+    "name": "Aviad Polak"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Aviad Polak",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "aviad-dev-toolkit",
+      "source": {
+        "source": "github",
+        "repo": "AviadP/my-claude-skills",
+        "ref": "master"
+      },
+      "description": "Development quality toolkit — architecture, code quality, refactoring, memory, shipping",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aviad Polak"
+      },
+      "repository": "https://github.com/AviadP/my-claude-skills",
+      "license": "MIT",
+      "keywords": ["code-quality", "architecture", "refactoring", "git-workflow"],
+      "category": "code-quality"
+    }
+  ]
+}
