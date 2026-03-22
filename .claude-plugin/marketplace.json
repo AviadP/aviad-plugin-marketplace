@@ -24,6 +24,23 @@
       "license": "MIT",
       "keywords": ["code-quality", "architecture", "refactoring", "git-workflow"],
       "category": "code-quality"
+    },
+    {
+      "name": "minihive",
+      "source": {
+        "source": "github",
+        "repo": "AviadP/minihive",
+        "ref": "main"
+      },
+      "description": "Multi-agent orchestrator — PM plans, agents build in parallel, test, review, commit",
+      "version": "0.1.3",
+      "author": {
+        "name": "Aviad Polak"
+      },
+      "repository": "https://github.com/AviadP/minihive",
+      "license": "Apache-2.0",
+      "keywords": ["multi-agent", "orchestrator", "dag", "parallel-execution", "code-review"],
+      "category": "automation"
     }
   ]
 }
