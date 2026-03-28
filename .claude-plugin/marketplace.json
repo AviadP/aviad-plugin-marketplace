@@ -15,8 +15,8 @@
         "repo": "AviadP/aviad-dev-toolkit",
         "ref": "main"
       },
-      "description": "Development quality toolkit — architecture, code quality, security review, refactoring, memory, shipping",
-      "version": "1.1.0",
+      "description": "Development quality toolkit — architecture, code quality, security review, verification, refactoring, memory, shipping",
+      "version": "1.2.0",
       "author": {
         "name": "Aviad Polak"
       },
