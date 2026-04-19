@@ -10,5 +10,5 @@ claude plugin install AviadP/aviad-plugin-marketplace
 
 | Plugin | Description |
 |--------|-------------|
-| **aviad-dev-toolkit** | Architecture planning, bug hunting, code quality review, security review, verification, refactoring, debugging, test planning, memory, and shipping workflows |
+| **aviad-dev-toolkit** | Requirements discovery, architecture planning, bug hunting, code quality review, security review, verification, refactoring, debugging, test planning, memory, and shipping workflows |
 | **minihive** | Multi-agent orchestrator — PM plans, agents build in parallel, test, review, commit |

@@ -15,14 +15,14 @@
         "repo": "AviadP/aviad-dev-toolkit",
         "ref": "main"
       },
-      "description": "Development quality toolkit — architecture, code quality, security review, verification, refactoring, debugging, review response, test planning, memory, shipping",
-      "version": "1.7.0",
+      "description": "Development quality toolkit — requirements discovery, architecture, code quality, security review, verification, refactoring, debugging, review response, test planning, memory, shipping",
+      "version": "1.8.0",
       "author": {
         "name": "Aviad Polak"
       },
       "repository": "https://github.com/AviadP/aviad-dev-toolkit",
       "license": "MIT",
-      "keywords": ["code-quality", "architecture", "security", "refactoring", "test-planning", "git-workflow"],
+      "keywords": ["requirements", "code-quality", "architecture", "security", "refactoring", "test-planning", "git-workflow"],
       "category": "code-quality"
     },
     {
