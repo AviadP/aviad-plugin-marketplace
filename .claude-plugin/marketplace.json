@@ -16,7 +16,7 @@
         "ref": "main"
       },
       "description": "Development quality toolkit — architecture, code quality, security review, verification, refactoring, debugging, review response, test planning, memory, shipping",
-      "version": "1.6.0",
+      "version": "1.7.0",
       "author": {
         "name": "Aviad Polak"
       },
